@@ -1,0 +1,13 @@
+websocket-client
+openai>=1.0.0
+qdrant-client
+PyPDF2
+sentence-transformers
+pyaudio
+pyttsx3
+streamlit
+ollama
+speechrecognition
+websockets
+anthropic
+python-dotenv
